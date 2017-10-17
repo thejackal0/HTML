@@ -10,7 +10,7 @@ body {
   color: white;
 }
 h1 {
-  font-size= 2em;
+  font-size: 2em;
 }
 a:hover {
   color: #cccccc;
@@ -21,8 +21,8 @@ p {
 .redtext {
   color: red;
 }
-predtext {
-  width: 100px
+p.redtext {
+  width: 100px;
 }
 </style>
 </head>
