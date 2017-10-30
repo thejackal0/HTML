@@ -1,4 +1,4 @@
-<html>
+<html>                  //Body header
 <head>
 <title>
 A Simple HTML Document
@@ -8,4 +8,4 @@ A Simple HTML Document
 <p>This is a very simple HTML document</p>
 <p>It only has two paragraphs</p>
 </body>
-</html>
+</html>             //closing tag
